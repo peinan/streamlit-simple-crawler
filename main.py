@@ -66,9 +66,12 @@ def main():
     st.sidebar.write("""
         ## How to use
 
-        1. Copy the **URL** of the web page that you want to crawl.
-        2. Select the **Target Type** between "**text**" and "**table**".
-        3. Select the **Clue Type** between "**css_selector**" and "**tag_prop**".
+        1. Enter the **URL** of the web page you want to crawl.
+        2. Choose the **Target Type** from "**text**" and "**table**".
+        3. Select the proper **Clue Type**.
+            - **HTML Tag** is the most popular clue lead you to what you want.
+            - **CSS Selector** are good at structured page, such as the page lack of `class` or `id` attributes.
+            - **none** only used when the `Target Type` is `table`.
         4. Fill the clues and hit the "**Run Crawl !**" button.
         ---
         """)
