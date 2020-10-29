@@ -3,9 +3,9 @@
 A simple but useful crawler based on streamlit.
 
 <p float="left">
-  <img src="doc/imgs/uc1.png" height="200" />
-  <img src="doc/imgs/uc2.png" height="200" />
-  <img src="doc/imgs/uc3.png" height="200" />
+  <img src="doc/imgs/uc1.png" height="180" />
+  <img src="doc/imgs/uc2.png" height="180" />
+  <img src="doc/imgs/uc3.png" height="180" />
 </p>
 
 ## Examples
