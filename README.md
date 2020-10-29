@@ -8,6 +8,13 @@ A simple but useful crawler based on streamlit.
   <img src="doc/imgs/uc3.png" height="180" />
 </p>
 
+## Features
+
+- Hosting online, easy to access
+- Simple UI, flexible customizations with CSS selector and HTML Tags
+- Detect tables autimatically
+- Copy the result to your clipboard with JSON or CSV format
+
 ## Examples
 
 ### Use case 1: Crawl all the papers
