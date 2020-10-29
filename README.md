@@ -10,7 +10,8 @@ A simple but useful crawler based on streamlit.
 
 ## Features
 
-- Hosting online, easy to access
+- Hosting online, check the result immediately
+  - 👉 [App URL](https://share.streamlit.io/peinan/streamlit-simple-crawler/main/main.py)
 - Simple UI, flexible customizations with CSS selector and HTML Tags
 - Detect tables autimatically
 - Copy the result to your clipboard with JSON or CSV format
