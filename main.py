@@ -70,7 +70,7 @@ def main():
         2. Choose the **Target Type** from "**text**" and "**table**".
         3. Select the proper **Clue Type**.
             - **HTML Tag** is the most popular clue lead you to what you want.
-            - **CSS Selector** are good at structured page, such as the page lack of `class` or `id` attributes.
+            - **CSS Selector** is good at the pages lack of `class` or `id` attributes.
             - **none** only used when the `Target Type` is `table`.
         4. Fill the clues and hit the "**Run Crawl !**" button.
         ---
