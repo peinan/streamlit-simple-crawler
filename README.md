@@ -48,6 +48,6 @@ Open the URL with chrome (or other chromium-based browsers), execute the develop
 
 Check the full HTML after running crawl, and find the proper attributes.
 
-### Can crawling images?
+### Can crawl images?
 
 Future works 🤗
