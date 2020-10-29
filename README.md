@@ -47,3 +47,7 @@ Open the URL with chrome (or other chromium-based browsers), execute the develop
 ### The environment are different between my browser and the app
 
 Check the full HTML after running crawl, and find the proper attributes.
+
+### Can crawling images?
+
+Future works 🤗
