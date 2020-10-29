@@ -1,6 +1,12 @@
-# Simple Crawler
+# Simple Crawler [🔗](https://share.streamlit.io/peinan/streamlit-simple-crawler/main/main.py)
 
 A simple but useful crawler based on streamlit.
+
+<p float="left">
+  <img src="doc/imgs/uc1.png" height="200" />
+  <img src="doc/imgs/uc2.png" height="200" />
+  <img src="doc/imgs/uc3.png" height="200" />
+</p>
 
 ## Examples
 
@@ -16,6 +22,7 @@ A simple but useful crawler based on streamlit.
 - URL: https://www.google.com/search?q=nlp
 - Target Type: text
 - Clue Type: tag_prop
+- tag: h3
 - id: None
 - class: zBAuLc
 
