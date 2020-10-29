@@ -8,6 +8,14 @@ A simple but useful crawler based on streamlit.
   <img src="doc/imgs/uc3.png" height="180" />
 </p>
 
+## Features
+
+- Hosting online, check the result immediately
+  - 👉 [App URL](https://share.streamlit.io/peinan/streamlit-simple-crawler/main/main.py)
+- Simple UI, flexible customizations with CSS selector and HTML Tags
+- Detect tables autimatically
+- Copy the result to your clipboard with JSON or CSV format
+
 ## Examples
 
 ### Use case 1: Crawl all the papers
@@ -47,3 +55,7 @@ Open the URL with chrome (or other chromium-based browsers), execute the develop
 ### The environment are different between my browser and the app
 
 Check the full HTML after running crawl, and find the proper attributes.
+
+### Can crawl images?
+
+Future works 🤗
